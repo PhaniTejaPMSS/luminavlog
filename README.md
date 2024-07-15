@@ -55,10 +55,6 @@
   <img src="https://github.com/PhaniTejaPMSS/luminavlog/assets/109794469/ad830ad0-291f-4889-8717-59e083dd255e" alt="Screenshot 4" style="width: 24%;"/>
 </div>
 
-## Install the app on your Android device
-
-You can test the app on your Android device by downloading the `.apk` file from this [link](https://bit.ly/lumina-vlog).
-
 ## License
 This project is licensed under the MIT License.
 
